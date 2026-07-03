@@ -1,6 +1,6 @@
 ---
 layout: post 
 title: Superconducting Rectifier
-advisor: Alain Fauquex, Prof. Chiara Salemi
+advisor: Prof. Chiara Salemi, Alain Fauquex
 permalink: /research/sc-rectifier/
 ---
